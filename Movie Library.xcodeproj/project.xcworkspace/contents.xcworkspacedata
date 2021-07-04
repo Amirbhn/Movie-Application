@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/map04/Desktop/Class Practice/ios final project Json modified/Project IOS 2 Json Modified Verison/Movie Library.xcodeproj">
+      location = "group:../Project IOS 2 Json Modified Verison/Screenshots">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

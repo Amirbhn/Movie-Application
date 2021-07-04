@@ -29,6 +29,8 @@ class MovieDetailTableViewController: UITableViewController {
     @IBOutlet weak var movieRate: UILabel!
     @IBOutlet weak var movieOverview: UITextView!
     
+    
+    
     @IBAction func saveBtnPressed(_ sender: UIBarButtonItem) {
     }
     
