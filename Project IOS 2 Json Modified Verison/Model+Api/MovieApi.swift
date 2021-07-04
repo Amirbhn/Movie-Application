@@ -46,12 +46,14 @@ struct Movie: Decodable {
     let rate: Double
     let posterImage: String
     let overview: String
+    let originalLanguage : String
     
      enum CodingKeys: String, CodingKey {
         case title, overview
         case year = "release_date"
         case rate = "vote_average"
         case posterImage = "poster_path"
+        case originalLanguage = "original_language"
     }
     
 }

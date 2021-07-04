@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DCC9392926268C2800A9BB37 /* Project IOS 2 Json Modified Verison.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project IOS 2 Json Modified Verison.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DCC9392926268C2800A9BB37 /* Movie Library.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Movie Library.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCC9392C26268C2800A9BB37 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DCC9392E26268C2800A9BB37 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		DCC9393326268C2800A9BB37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		DCC9392A26268C2800A9BB37 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DCC9392926268C2800A9BB37 /* Project IOS 2 Json Modified Verison.app */,
+				DCC9392926268C2800A9BB37 /* Movie Library.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,9 +103,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DCC9392826268C2800A9BB37 /* Project IOS 2 Json Modified Verison */ = {
+		DCC9392826268C2800A9BB37 /* Movie Library */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DCC9393D26268C2800A9BB37 /* Build configuration list for PBXNativeTarget "Project IOS 2 Json Modified Verison" */;
+			buildConfigurationList = DCC9393D26268C2800A9BB37 /* Build configuration list for PBXNativeTarget "Movie Library" */;
 			buildPhases = (
 				DCC9392526268C2800A9BB37 /* Sources */,
 				DCC9392626268C2800A9BB37 /* Frameworks */,
@@ -115,9 +115,9 @@
 			);
 			dependencies = (
 			);
-			name = "Project IOS 2 Json Modified Verison";
+			name = "Movie Library";
 			productName = "Project IOS 2 Json Modified Verison";
-			productReference = DCC9392926268C2800A9BB37 /* Project IOS 2 Json Modified Verison.app */;
+			productReference = DCC9392926268C2800A9BB37 /* Movie Library.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -134,7 +134,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DCC9392426268C2800A9BB37 /* Build configuration list for PBXProject "Project IOS 2 Json Modified Verison" */;
+			buildConfigurationList = DCC9392426268C2800A9BB37 /* Build configuration list for PBXProject "Movie Library" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -147,7 +147,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DCC9392826268C2800A9BB37 /* Project IOS 2 Json Modified Verison */,
+				DCC9392826268C2800A9BB37 /* Movie Library */,
 			);
 		};
 /* End PBXProject section */
@@ -356,7 +356,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DCC9392426268C2800A9BB37 /* Build configuration list for PBXProject "Project IOS 2 Json Modified Verison" */ = {
+		DCC9392426268C2800A9BB37 /* Build configuration list for PBXProject "Movie Library" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DCC9393B26268C2800A9BB37 /* Debug */,
@@ -365,7 +365,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DCC9393D26268C2800A9BB37 /* Build configuration list for PBXNativeTarget "Project IOS 2 Json Modified Verison" */ = {
+		DCC9393D26268C2800A9BB37 /* Build configuration list for PBXNativeTarget "Movie Library" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DCC9393E26268C2800A9BB37 /* Debug */,
