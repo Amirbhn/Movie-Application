@@ -1,6 +1,8 @@
 # Movie Application
+iOS - Storyboard - MVC
+<br>
+A movie application to see a collection high ranked movies. Based on Api from www.themoviedb.org
 
-A movie application to see a collection high ranked movies.
 
 
 ## Features:
